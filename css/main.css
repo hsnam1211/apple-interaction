@@ -78,6 +78,7 @@ a {
   height: 3em;
   font-size: 2.5rem;
   margin: 5px 0;
+  top: 35vh;
 }
 
 .main-message p {
@@ -143,7 +144,6 @@ a {
 .sticky-elem {
   display: none;
   position: fixed;
-  top: 0;
   left: 0;
   width: 100%;
 }
